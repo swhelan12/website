@@ -1,0 +1,62 @@
+     h1 { 
+	 color: black;
+	}
+     Body {
+         color: black; 
+         padding: 150px;
+         margin: 150px;
+         border: 3px solid black;
+            }
+     img {
+         display: block;
+         margin: auto;
+         width: 100%;
+           }     
+     table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color:#e6dbd0
+                     }
+   .floater{
+    float:left;
+    height:250px;
+    clear: both;
+    margin: 30px;
+             }
+   .floaters {
+    float:right;
+    height:250px;
+    clear: both;
+    margin:30px;
+               }
+    #topRow {
+            background-color: #e6dbd0;
+            color: black;        
+            text-align: center ;
+              }
+    #top {
+          color:  #a61c3c;
+           }
+    .link {
+          color: #a61c3c;
+           }
+
+     a:link {
+             text-decoration: none;
+             }
+     a:hover {
+             text-decoration: underline;
+             color: yellow;
+               }
+
+     a:visited {
+             text-decoration: none;
+                 }
+
+     a:active {
+             text-decoration: underline;
+               }
+
+      ul.a {
+           list-style-type: circle;
+             }
